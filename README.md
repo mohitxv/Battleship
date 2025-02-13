@@ -1,6 +1,5 @@
 # Py-Battleship
 
-  [![License](https://img.shields.io/static/v1?label=License&message=GPL-3-0&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/license/GPL-3-0)
 
 ## Table Of Content
 
@@ -46,14 +45,5 @@ Py-Battleship is built with the following tools and libraries: <ul><li>Python</l
 4. The game continues until you either make a correct guess or run out of guesses
 5. You will then be asked if you want to start a new game
 
-
-## GitHub
-
-<a href="https://github.com/robertlent"><strong>robertlent</a></strong>
-
-
-## License
-
-[![License](https://img.shields.io/static/v1?label=Licence&message=GPL-3-0&color=blue)](https://opensource.org/license/GPL-3-0)
 
 
